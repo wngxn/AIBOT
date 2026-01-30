@@ -1,2 +1,1 @@
-# humanoid_robots
-人形机器人的
+OK，this is where i will push my idea about robot 
