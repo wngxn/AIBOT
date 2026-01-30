@@ -1,1 +1,4 @@
-OK，this is where i will push my idea about robot 
+GUARD 苍狼， 
+自律型防卫机器人
+外观犬形
+具体功能待开发
