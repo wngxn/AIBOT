@@ -1,1 +1,4 @@
-OK，this is where i will push my idea about robot 
+CODE：AGENT
+豆豆，代理型人工智能
+可在多设备之间自由穿梭，主要载体为悬浮球
+全能助理
